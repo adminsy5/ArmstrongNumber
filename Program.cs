@@ -22,7 +22,7 @@ namespace ArmstrongNumber
             }
             else
             {
-                Console.WriteLine("This is nt Armstrong Number !");
+                Console.WriteLine("This is not Armstrong Number !");
             }
             Console.ReadLine();
         }
